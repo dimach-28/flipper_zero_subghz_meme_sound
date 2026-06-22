@@ -1,3 +1,6 @@
+## Демонстрация
+<video src="video/flipper_video.mp4" width="600" controls></video>
+
 # 📻 Flipper Zero FM Sound Collection
 
 **Коллекция мемных и популярных звуков для FM-радио / раций**
