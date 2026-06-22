@@ -1,5 +1,4 @@
-## Демонстрация
-<video src="video/flipper_video.mp4" width="600" controls></video>
+[![Демонстрация](https://img.youtube.com/vi/TDmQs_ZZg3U/0.jpg)](https://youtube.com/shorts/TDmQs_ZZg3U?si=eJrhTbW6-KT_NSVS)
 
 # 📻 Flipper Zero FM Sound Collection
 
