@@ -18,5 +18,3 @@ Perfect for:
 > **⚠️ DISCLAIMER:** Use responsibly! Make sure you have permission to transmit on the frequency you're using. Check your local laws and regulations before broadcasting.
 
 ---
-
-## 📁 Repository Structure
